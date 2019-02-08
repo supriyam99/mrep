@@ -7,7 +7,7 @@ body{
   background-attachment: fixed;
   color:black;
   padding:40px;
-  height:400px;
+  height:500px;
   width:400px;
   margin:20px auto;
   text-align:left;
@@ -17,7 +17,7 @@ body{
   float: left;
   width: 42%;
   padding: 10px;
-  height: 400px; /* Should be removed. Only for demonstration */
+  height: 500px; /* Should be removed. Only for demonstration */
 }
 
 .columns {
