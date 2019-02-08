@@ -1,0 +1,27 @@
+body {
+  background: url("photo8.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    background-attachment: fixed;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+
+.content
+{
+  background-color:rgba(0,0,0,0.5);
+  background-attachment: fixed;
+  color:white;
+  padding:40px;
+  height:320px;
+  width:300px;
+  margin:150px auto;
+}
+.profile-pic
+{
+  height: 150px;
+  width:150px;
+  border-radius:60%;
+}
