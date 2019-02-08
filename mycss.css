@@ -24,7 +24,7 @@ body{
   float: left;
   width: 48%;
   padding: 10px;
-  height: 400px; /* Should be removed. Only for demonstration */
+  height: 500px; /* Should be removed. Only for demonstration */
 }
 
 .row:after {
